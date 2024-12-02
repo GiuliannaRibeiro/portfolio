@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "home": {
+    "me": "Olá, eu sou a ",
+    "description": "Sou uma desenvolvedora de software com experiência em TypeScript, JavaScript, Angular, React e Node.js.",
+    "btnViewMyWork": "Veja Meu Trabalho",
+    "btnGetInTouch": "Entre em Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "role": "Desenvolvedor Full Stack",
+    "description": "especializado em criar experiências digitais excepcionais",
+    "viewWork": "Ver Meu Trabalho",
+    "getInTouch": "Entre em Contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Sou uma desenvolvedora de software júnior com experiência em design e desenvolvimento de aplicativos da Web. Apaixonada pela criação de soluções eficientes e de fácil manutenção para desafios técnicos.",
+    "skills": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "other": "Outros"
+    }
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "viewCode": "Código",
+    "viewDemo": "Demo",
+    "animeBlog": {
+      "title": "Blog de Animes",
+      "description": "Um blog de animes criado como parte de um desafio, com design atrativo, fácil de navegar e funcionalidades pensadas para engajar os fãs do gênero."
+    },
+    "BuzzfeedQuiz": {
+      "title": "Quiz Buzzfeed",
+      "description": "Um quiz interativo de personalidade que desafia você a descobrir se sua essência é de herói ou vilão."
+    },
+    "PomodoroStudies": {
+      "title": "Estudos Pomodoro",
+      "description": "Um temporizador de estudos que permite adicionar tarefas e as marca automaticamente como concluídas ao término do cronômetro."
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Estou sempre interessada em ouvir sobre novos projetos e oportunidades. Não hesite em entrar em contato!",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "location": "Localização",
+      "phone": "Telefone",
+      "send": "Enviar Mensagem"
+    }
+  },
+  "footer": {
+    "description": "Desenvolvedora de Software",
+    "allRightsReserved": "Todos os direitos reservados."
+  }
+}

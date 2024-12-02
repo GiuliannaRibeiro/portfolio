@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "me": "Hi, I'm ",
+    "description": "I'm a software developer with experience in TypeScript, JavaScript, Angular, React and Node.js.",
+    "btnViewMyWork": "View My Work",
+    "btnGetInTouch": "Get in Touch"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "role": "Full Stack Developer",
+    "description": "specializing in building exceptional digital experiences",
+    "viewWork": "View My Work",
+    "getInTouch": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a Junior Software Developer with experience in designing and building web applications. Passionate about crafting efficient and maintainable solutions to technical challenges.",
+    "skills": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "other": "Other"
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewCode": "Code",
+    "viewDemo": "Live Demo",
+    "animeBlog": {
+      "title": "Anime's Blog",
+      "description": "An anime blog created as part of a challenge, featuring an attractive design, easy navigation, and features designed to engage fans of the genre."
+    },
+    "BuzzfeedQuiz": {
+      "title": "Buzzfeed Quiz",
+      "description": "An interactive personality quiz that challenges you to discover whether your essence is that of a hero or a villain."
+    },
+    "PomodoroStudies": {
+      "title": "Pomodoro Studies",
+      "description": "A study timer that lets you add tasks and automatically marks them as completed when the timer ends."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "I'm always interested in hearing about new projects and opportunities. Feel free to reach out!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "location": "Location",
+      "phone": "Phone",
+      "send": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Software Developer",
+    "allRightsReserved": "All rights reserved."
+  }
+}
