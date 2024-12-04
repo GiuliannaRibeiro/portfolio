@@ -33,7 +33,7 @@ const About = () => {
               <SkillCard
                 icon={<Server size={24} />}
                 title="Backend"
-                skills={['Node.js', 'PostgreSQL']}
+                skills={['Node.js', 'Express.js', 'PostgreSQL', 'RESTful APIs']}
               />
               <SkillCard
                 icon={<Globe size={24} />}
