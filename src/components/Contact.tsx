@@ -21,7 +21,7 @@ const Contact = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
     );
-    const mailtoLink = `mailto:giuliannaribeiro00@gmail.com?subject=${subject}&body=${body}`;
+    const mailtoLink = `mailto:giuliannadev@gmail.com?subject=${subject}&body=${body}`;
     window.location.href = mailtoLink;
   };
   
@@ -47,7 +47,7 @@ const Contact = () => {
               <ContactInfo
                 icon={<Mail />}
                 title={t('contact.form.email')}
-                content="giuliannaribeiro00@gmail.com"
+                content="giuliannadev@gmail.com"
               />
               <ContactInfo
                 icon={<Phone />}

@@ -91,7 +91,7 @@ const SocialLinks = () => (
     >
       <Linkedin size={20} />
     </a>
-    <a href="mailto:giuliannaribeiro00@gmail.com" className="social-link">
+    <a href="mailto:giuliannadev@gmail.com" className="social-link">
       <Mail size={20} />
     </a>
   </div>
