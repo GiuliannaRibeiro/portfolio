@@ -11,7 +11,7 @@ Feel free to explore and check out the code behind projects that demonstrate my 
 - Optimized for performance using modern tools and frameworks.
 
 ## 🚀 Technologies Used
-- **Frontend**: HTML, React, TypeScript, Tailwind CSS
+- **Frontend**: HTML, TypeScript, React, JavaScript, Tailwind CSS
 - **Bundler**: Vite
 - **Other Tools**: ESLint
 
