@@ -17,7 +17,7 @@ Feel free to explore and check out the code behind projects that demonstrate my 
 
 ## 📂 Projects Highlighted
 - **Pomodoro App**: A productivity timer with task tracking.
-- **Buzzfeed Quiz**: An interactive quiz to discover if your traits reflect a hero or a villain.
+- **TopSpots**: A responsive Angular app to list and rate favorite places using Google Login and JSON Server.
 - **Anime Blog**: An engaging blog for anime fans.
 
 ## 📬 Contact
