@@ -28,7 +28,7 @@ const About = () => {
               <SkillCard
                 icon={<Code size={24} />}
                 title="Frontend"
-                skills={['React', 'Angular', 'TypeScript', 'Tailwind CSS', 'SCSS']}
+                skills={['Angular', 'React', 'TypeScript', 'Tailwind CSS', 'SCSS']}
               />
               <SkillCard
                 icon={<Server size={24} />}
