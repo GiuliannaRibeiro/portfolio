@@ -35,9 +35,9 @@
       "title": "Anime's Blog",
       "description": "An anime blog created as part of a challenge, featuring an attractive design, easy navigation, and features designed to engage fans of the genre."
     },
-    "BuzzfeedQuiz": {
-      "title": "Buzzfeed Quiz",
-      "description": "An interactive personality quiz that challenges you to discover whether your essence is that of a hero or a villain."
+    "topSpots": {
+      "title": "TopSpots",
+      "description": "Angular app to list and rate favorite places using Google OAuth and JSON Server."
     },
     "PomodoroStudies": {
       "title": "Pomodoro Studies",

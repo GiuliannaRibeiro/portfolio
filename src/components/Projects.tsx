@@ -1,7 +1,7 @@
 import React from 'react';
-import { ExternalLink, Github } from 'lucide-react';
+import { Github } from 'lucide-react';
 import animesBlog from '../assets/mock/animesBlog.png';
-import buzzfeed from '../assets/mock/buzzfeed.png';
+import topspots from '../assets/mock/topspots.png';
 import pomodoro from '../assets/mock/pomodoro.png';
 import { useTranslation } from 'react-i18next';
 import { t } from 'i18next';
@@ -19,11 +19,11 @@ const Projects = () => {
       liveUrl: '',
     },
     {
-      title: t('projects.BuzzfeedQuiz.title'),
-      description: t('projects.BuzzfeedQuiz.description'),
-      image: buzzfeed,
-      tags: ['Angular', 'Typescript'],
-      githubUrl: 'https://github.com/GiuliannaRibeiro/buzzfeed-HeroQuiz',
+      title: t('projects.topSpots.title'),
+      description: t('projects.topSpots.description'),
+      image: topspots,
+      tags: ['Angular', 'TypeScript', 'Dockerfile', 'OAuth2', 'Google Login', 'JSON Server', 'TailwindCSS'],
+      githubUrl: 'https://github.com/GiuliannaRibeiro/topSpots',
       liveUrl: '',
     },
     {
@@ -58,7 +58,6 @@ const ProjectCard = ({
   image,
   tags,
   githubUrl,
-  liveUrl,
 }: {
   title: string;
   description: string;
